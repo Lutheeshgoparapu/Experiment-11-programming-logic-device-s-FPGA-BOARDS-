@@ -1,4 +1,4 @@
-# Experiment-11-programming-logic-device-s-FPGA-BOARDS-
+# Experiment-10-programming-logic-device-s-FPGA-BOARDS-
  ### AIM: To understand the standard procedure to interface an FPGA board and flashing method using usb blaster 
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
